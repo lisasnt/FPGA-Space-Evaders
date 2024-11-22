@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Aug 12 16:54:10 2021
+# Process ID: 26488
+# Current directory: G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/SpaceInvaders_Project/SpaceInvaders_Project.runs/clk_wiz_0_synth_1
+# Command line: vivado.exe -log clk_wiz_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_wiz_0.tcl
+# Log file: G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/SpaceInvaders_Project/SpaceInvaders_Project.runs/clk_wiz_0_synth_1/clk_wiz_0.vds
+# Journal file: G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/SpaceInvaders_Project/SpaceInvaders_Project.runs/clk_wiz_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source clk_wiz_0.tcl -notrace

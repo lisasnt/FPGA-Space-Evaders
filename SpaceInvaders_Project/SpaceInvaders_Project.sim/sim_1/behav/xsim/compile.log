@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Graph.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'graph'
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Top'

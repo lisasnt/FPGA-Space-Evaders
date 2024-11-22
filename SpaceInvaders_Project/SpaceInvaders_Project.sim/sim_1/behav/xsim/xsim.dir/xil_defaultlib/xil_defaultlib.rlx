@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/SpaceInvaders_Project/SpaceInvaders_Project.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1628780046,verilog,G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Top.vhd,,,clk_wiz_0,,,../../../../SpaceInvaders_Project.gen/sources_1/ip/clk_wiz_0,,,,,
+G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/SpaceInvaders_Project/SpaceInvaders_Project.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1628780046,verilog,,G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/SpaceInvaders_Project/SpaceInvaders_Project.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../SpaceInvaders_Project.gen/sources_1/ip/clk_wiz_0,,,,,
+G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/SpaceInvaders_Project/SpaceInvaders_Project.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Controller.vhd,1628782794,vhdl,G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Top.vhd,,,vga_controller,,,,,,,,
+G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Enemy_Ball_rom.vhd,1628759181,vhdl,G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Graph.vhd,,,enemy_ball_rom,,,,,,,,
+G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Graph.vhd,1628844862,vhdl,G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Top.vhd,,,graph,,,,,,,,
+G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Rocket_rom.vhdl,1628612174,vhdl,G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Graph.vhd,,,rocket_rom,,,,,,,,
+G:/My Drive/Uni/2-Anno_20-21/RetiLogiche/SpaceInvaders/src/Top.vhd,1628844078,vhdl,,,,top,,,,,,,,

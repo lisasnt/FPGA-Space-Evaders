@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../src/Controller.vhd" \
+"../../../../../src/Enemy_Ball_rom.vhd" \
+"../../../../../src/Rocket_rom.vhdl" \
+"../../../../../src/Graph.vhd" \
+"../../../../../src/Top.vhd" \
+
+# Do not sort compile order
+nosort
